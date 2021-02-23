@@ -1,2 +1,2 @@
 # Troubleshooting-and-Debugging-Techniques
-cousrera course by google
+cousrera course by Google 
